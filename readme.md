@@ -16,7 +16,7 @@ With yarn
 # Install dependencies (only the first time)
 yarn
 
-# Run the local server at localhost:8080
+# Run the local server at localhost:5173
 yarn dev
 ```
 
@@ -24,7 +24,7 @@ yarn dev
 # Install dependencies (only the first time)
 npm install
 
-# Run the local server at localhost:8080
+# Run the local server at localhost:5173
 npm run dev
 ```
 
