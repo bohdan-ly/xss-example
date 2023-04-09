@@ -21,6 +21,8 @@ yarn
 yarn dev
 ```
 
+With NPM
+
 ``` bash
 # Install dependencies (only the first time)
 npm install
