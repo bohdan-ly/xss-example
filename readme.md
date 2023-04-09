@@ -1,4 +1,4 @@
-# README for XSS Example Project
+# XSS Attack and prevention
 
 This is a simple example project that demonstrates how Cross-Site Scripting (XSS) works and how to prevent this type of attack. The project uses pure JavaScript, HTML, and Tailwind CSS.
 
