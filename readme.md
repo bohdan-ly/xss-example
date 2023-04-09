@@ -7,6 +7,7 @@ This is a simple example project that demonstrates how Cross-Site Scripting (XSS
 1. Clone the repository to your local machine using `git clone` command or by downloading the ZIP file from the repository.
 
 2. Setup project and run development server
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
